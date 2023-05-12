@@ -1,0 +1,27 @@
+.cart{
+    background-color: #FFE0B3;
+    padding: 25px;
+    border-radius: 8px;
+    position: sticky;
+    top: 50px;
+}
+
+.cart-headline{
+    color: #1C2B35;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.cart-details-common{
+    color: #2A414F;
+    font-size: 17px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.cart-grand-price{
+    color: #0E161A;
+    font-weight: 400;
+    font-size: 21px;
+}
